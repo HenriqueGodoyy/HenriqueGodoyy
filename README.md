@@ -27,7 +27,7 @@ Me chamo Henrique Godoy, tenho 18 anos e moro em Ribeirão Preto. Estou cursando
 <div align="center">
   <a href="https://github.com/HenriqueGodoyy">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=HenriqueGodoyy&show_icons=true&theme=tokyonight" />
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGodoyy&layout=compact&langs_count=16&theme=tokyonight" />
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGodoyy&layout=compact&langs_count=16&theme=tokyonight&v=1" />
   </a>
 </div>
 
