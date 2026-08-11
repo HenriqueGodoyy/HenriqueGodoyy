@@ -30,12 +30,4 @@ Compartilho minha evolução e projetos no [LinkedIn](https://www.linkedin.com/i
 </div>
 <br>
 
----
-### 🤖 Estatísticas
-<div align="center">
-  <a href="https://github.com/HenriqueGodoyy">
-   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=henriquegodoyy&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegodoyy&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=1800"/>
-  </a>
-</div>
 
