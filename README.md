@@ -3,7 +3,7 @@
 **`Software Engineer`**
 <br>
 
-Tenho 18 anos e sou estudante de Engenharia de Software na Unaerp.  
+Tenho 19 anos e sou estudante de Engenharia de Software na Unaerp.  
 Sou apaixonado por tecnologia e focado no desenvolvimento de aplicações modernas.
 
 Compartilho minha evolução e projetos no [LinkedIn](https://www.linkedin.com/in/henrique-godoy-dos-santos/).
