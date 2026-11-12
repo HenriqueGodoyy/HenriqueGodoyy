@@ -9,12 +9,3 @@
 <a href="https://github.com/HenriqueGodoyy/Natacao_Unaerp"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-Natacao_Unaerp-dark.svg" /><img src="./cards/repo-Natacao_Unaerp-light.svg" width="33.333%" alt="Natacao_Unaerp: sistema do projeto de extensão Unaerp Esportes para acompanhar a evolução dos atletas de natação. TypeScript." /></picture></a><a href="https://github.com/HenriqueGodoyy/Portifolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-Portifolio-dark.svg" /><img src="./cards/repo-Portifolio-light.svg" width="33.333%" alt="Portifolio: portfólio pessoal em PT/EN feito com Next.js, Tailwind CSS e Motion. TypeScript." /></picture></a><a href="https://github.com/HenriqueGodoyy/mobile-security"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/repo-mobile-security-dark.svg" /><img src="./cards/repo-mobile-security-light.svg" width="33.333%" alt="mobile-security: app Android de sobremesas com catálogo via API, carrinho local e regras de segurança de rede. Kotlin." /></picture></a><br>
 <a href="https://www.linkedin.com/in/henrique-godoy-dos-santos/"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/contato-linkedin-dark.svg" /><img src="./cards/contato-linkedin-light.svg" width="33.333%" alt="LinkedIn: /in/henrique-godoy-dos-santos" /></picture></a><a href="https://instagram.com/henrique_godoy12"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/contato-instagram-dark.svg" /><img src="./cards/contato-instagram-light.svg" width="33.333%" alt="Instagram: @henrique_godoy12" /></picture></a><a href="mailto:henriquegodoyds@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./cards/contato-email-dark.svg" /><img src="./cards/contato-email-light.svg" width="33.333%" alt="E-mail: henriquegodoyds@gmail.com" /></picture></a>
 </div>
-
-### 🤖 Estatísticas
-
-<div align="center">
-<a href="https://github.com/HenriqueGodoyy">
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=henriquegodoyy&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegodoyy&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=1800"/>
-</a>
-</div>
